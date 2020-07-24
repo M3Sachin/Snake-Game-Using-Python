@@ -1,0 +1,2 @@
+# Snake-Game-Using-Python
+Snake Game Using Python #1 This is the classic version of the most popular mobile and computer game named “SNAKE”. The main objective of this game is to feed an increasing length of a snake with food particles which are found at random positions, picking up bonus mongooses that occur at regular intervals.  The “snake game” is a game made in Python language. This is a game which is quite easy to play. The game is a classic representation of the snake game which appears as an inbuilt game feature in most of the leading mobile handsets like Nokia.
